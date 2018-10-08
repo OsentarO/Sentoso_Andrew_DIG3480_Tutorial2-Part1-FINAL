@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ANDREW_SENTOSO_UFO_GAME_MAIN.unity
+  isLoaded: 1
+  isActive: 1
